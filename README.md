@@ -6,3 +6,5 @@ A Small Repo for all of my Javascript journey
 3. Server Side JavaScript
 4. AngularJS
 5. Finally! Sass
+
+All suggestions and ideas are welcome :)
